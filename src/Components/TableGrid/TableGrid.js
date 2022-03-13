@@ -70,8 +70,6 @@ function TableGrid() {
     setNewId(event.target.value);
   };
 
-  console.log("userData", newUserData);
-
   return (
     <div className="flex flex-col">
       <div className="text-center font-bold text-2xl">Posts Table</div>
