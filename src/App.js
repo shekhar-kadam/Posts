@@ -1,8 +1,8 @@
 import "./App.css";
-import UserTable from "./View/UserTable";
+import TableGrid from "./Components/TableGrid";
 
 function App() {
-  return <UserTable />;
+  return <TableGrid />;
 }
 
 export default App;
